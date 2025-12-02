@@ -20,7 +20,7 @@ const server = http.createServer(app)
 
 const allowedOrigins = [
   "http://localhost:3000",
-  "https://your-frontend-domain.vercel.app",
+  "https://deeref-assignment.vercel.app",
 ]
 
 app.use(
