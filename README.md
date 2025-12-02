@@ -7,8 +7,8 @@ HiveChat supports real-time communication, channel-based conversations, online p
 
 ## 🚀 Live Demo
 
-🔗 **Frontend:** *{Add Vercel Link}*
-🔗 **Backend:** *{Add Render Link}*
+🔗 **Frontend:** https://deeref-assignment.vercel.app/
+🔗 **Backend:** https://deeref-assignment-4ofl.onrender.com
 🔗 **Database:** Neon Postgres (Cloud hosted)
 
 ---
